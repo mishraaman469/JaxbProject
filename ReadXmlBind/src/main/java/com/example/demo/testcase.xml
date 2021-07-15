@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite>
+<property>
+</property>
+<testcase id="1u">
+<name>abc</name>
+<classname>pqr</classname>
+</testcase>
+<testcase id="2u">
+<name>abc</name>
+<classname>pqr</classname>
+</testcase>
+<testcase id="3u">
+<name>jod</name>
+<classname>pqr</classname>
+</testcase>
+</testsuite>
